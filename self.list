@@ -3,10 +3,3 @@ DOMAIN-SUFFIX,reader.cx
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,thorium.rocks
-
-PROCESS-NAME,qBittorrent
-PROCESS-NAME,qbittorrent.exe
-PROCESS-NAME,qbittorrent-nox
-PROCESS-NAME,transmission-daemon
-PROCESS-NAME,transmission-daemon.exe
-PROCESS-NAME,transmission-qt.exe
