@@ -1,4 +1,9 @@
-# 内容 OpenAi Bard anthropic claude
+# 内容 OpenAi Bard anthropic claude Bing
+
+# From https://github.com/ACL4SSR/ACL4SSR/issues/121#issuecomment-1793673237
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,copilot.microsoft.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,openai
