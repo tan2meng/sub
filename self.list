@@ -2,5 +2,7 @@
 DOMAIN-SUFFIX,reader.cx
 DOMAIN-SUFFIX,thorium.rocks
 DOMAIN-SUFFIX,z-library.sk
+
+
 # 域名关键字匹配
-DOMAIN-KEYWORD,z-library
+# DOMAIN-KEYWORD
