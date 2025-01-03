@@ -2,16 +2,21 @@
 DOMAIN-KEYWORD,nekko
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,hdhive.online
+
+#ody,zdz
 DOMAIN-SUFFIX,odysseyplus.site
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,hlive.io
+
 #HXD
 DOMAIN-SUFFIX,emby.as174.de
 DOMAIN-SUFFIX,cf.bili.rip
+
 #NEKO
 DOMAIN-SUFFIX,nekkochan.xyz
 DOMAIN-SUFFIX,nekkoto.app
 DOMAIN-SUFFIX,pokoki.xyz
+
 #goplay
 DOMAIN-SUFFIX,goplay.su
 DOMAIN-SUFFIX,amap.com
