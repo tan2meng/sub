@@ -3,10 +3,10 @@ DOMAIN-KEYWORD,nekko
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,odysseyplus.site
-DOMAIN-SUFFIX,emby.wtf  
+DOMAIN-SUFFIX,emby.wtf
 #HXD
 DOMAIN-SUFFIX,emby.as174.de
-DOMAIN-SUFFIX,cf.bili.rip:8443  
+DOMAIN-SUFFIX,cf.bili.rip
 #NEKO
 DOMAIN-SUFFIX,nekkochan.xyz
 DOMAIN-SUFFIX,nekkoto.app
