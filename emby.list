@@ -1,6 +1,5 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,nekko
-DOMAIN-KEYWORD,goplay
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,odysseyplus.site
@@ -11,4 +10,8 @@ DOMAIN-SUFFIX,cf.bili.rip:8443  
 #NEKO
 DOMAIN-SUFFIX,nin.nekkochan.xyz
 DOMAIN-SUFFIX,misc.nekkoto.app
-DOMAIN-SUFFIX,s10.pokoki.xyz
+DOMAIN-SUFFIX,pokoki.xyz
+
+#goplay
+goplay.su
+amap.com
