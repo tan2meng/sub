@@ -7,5 +7,9 @@ DOMAIN-SUFFIX,allainews.com
 DOMAIN-SUFFIX,coolinfographics.com
 DOMAIN-SUFFIX,nthlink.com
 
+#viz
+DOMAIN-SUFFIX,nunflix.org
+DOMAIN-SUFFIX,freek.to
+
 # 域名关键字匹配
 # DOMAIN-KEYWORD
