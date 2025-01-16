@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,heytapmobi.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
