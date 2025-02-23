@@ -9,8 +9,10 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,grok
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,pi.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
