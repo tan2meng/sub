@@ -32,6 +32,8 @@ DOMAIN-SUFFIX,noodlemagazine.com
 DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,rips.cc
 DOMAIN-SUFFIX,ee3.me
+##
+DOMAIN-SUFFIX,mxcontent.net/
 
 # 域名关键字匹配
 # DOMAIN-KEYWORD
